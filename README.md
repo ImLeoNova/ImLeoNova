@@ -20,13 +20,11 @@ const ariyan = {
     lastUpdate: "2025-02-20 14:10:04",
     location: "Iran",
     currentFocus: "Web Development & Software Engineering",
-    workingOn: "Visual-AI-Projects",
-    learning: ["React", "Node.js", "Python", "Docker"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Photography"],
     technologies: {
-        frontEnd: ["React", "HTML", "CSS", "JavaScript"],
-        backEnd: ["Node.js", "Python", "Express"],
-        databases: ["MongoDB", "MySQL"],
+        frontEnd: ["React", "HTML", "CSS", "JavaScript", "TypeScript", "Angular", "Next js"],
+        backEnd: ["Node.js", "Python", "Express", "PHP", "ASP.NET CORE"],
+        databases: ["MongoDB", "MySQL", "POSTGRES", "SQL SERVER"],
         devOps: ["Docker", "Git", "GitHub Actions"],
         tools: ["VS Code", "Postman", "Figma"]
     }

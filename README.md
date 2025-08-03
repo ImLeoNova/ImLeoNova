@@ -101,7 +101,7 @@ const ariyan = {
 
 <h2>💻 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,docker,mongodb,git,javascript,typescript,html,css,express,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,docker,mongodb,mysql,git,javascript,typescript,html,css,tailwind,express,angular,dotnet,tensorflow,lua,scss,next,postgres,vscode&theme=dark" />
 </p>
 
 <h2>📊 GitHub Activity Graph</h2>

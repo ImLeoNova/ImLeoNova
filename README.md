@@ -99,7 +99,7 @@ const ariyan = {
 
 <h2>💻 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,docker,mongodb,mysql,git,javascript,typescript,html,css,tailwind,express,angular,dotnet,tensorflow,lua,scss,next,postgres,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,next,react,vite,javascript,typescript,html,css,tailwind,bootstrap,nodejs,python,docker,ubuntu,mongodb,mysql,postgres,git,express,dotnet,cs,tensorflow,lua,vscode,visualstudio,webstorm,rider,phpstorm,pycharm&theme=dark" />
 </p>
 
 <h2>📊 GitHub Activity Graph</h2>

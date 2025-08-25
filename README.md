@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://images.hdqwalls.com/download/lofi-vibes-4k-h4-1920x1200.jpg">
-  
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Ariyan;A+Passionate+Developer+from+Iran&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <br>
+  <br>
+  
   <div align="center">
 
   <p align="justify" style="font-size:16px; line-height:1.8; color:#d9d9d9; background:#0d0d0d; padding:20px; border-radius:15px; box-shadow:0 0 15px rgba(255,107,0,0.4);">
@@ -144,5 +147,7 @@ const ariyan = {
   𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! 🤝
   <br>
   <br>
-  <img src="https://profile-counter.glitch.me/IImAriyan/count.svg" alt="Visitor Count"/>
+
+  <!--
+  <img src="https://profile-counter.glitch.me/ImLeoNova/count.svg" alt="Visitor Count"/> -->
 </div>

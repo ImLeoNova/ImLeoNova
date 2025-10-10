@@ -148,9 +148,12 @@ const ariyan = {
   <p>https://leonova-portfolio.vercel.app/home</p>
   
 </div>
-  𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! 🤝
   <br>
   <br>
+
+  ![GitHub Snake Light](https://raw.githubusercontent.com/ImLeoNova/ImLeoNova/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ImLeoNova/ImLeoNova/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
   <!--
   <img src="https://profile-counter.glitch.me/ImLeoNova/count.svg" alt="Visitor Count"/> -->
